@@ -223,7 +223,9 @@ main {
   .header_description {
     padding: 0 50px;
   }
-
+  .card_item {
+    padding: 38px 18px;
+  }
   .card_item h1 {
     margin-bottom: 8px;
   }
