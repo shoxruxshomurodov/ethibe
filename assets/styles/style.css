@@ -182,7 +182,9 @@ main {
   }
   .header_heading {
     font-size: 40px;
-    line-height: 60px;
+    font-weight: 900;
+    line-height: 54px;
+    text-align: center;
   }
 }
 @media screen and (max-width: 1024px) {
@@ -225,15 +227,11 @@ main {
   .bg-primary {
     padding: 10px 40px 30px 40px;
   }
-  .header_heading {
-    font-size: 30px;
-    line-height: 30px;
+  .header_heading,
+  .header_description {
     padding: 0 50px;
   }
-  .header_description {
-    font-size: 12px;
-    line-height: 16px;
-  }
+
   .card_item,
   .footer_list_item {
     font-size: 16px;
@@ -247,9 +245,5 @@ main {
 @media screen and (max-width: 560px) {
   .bg-primary {
     padding: 10px 10px 30px 10px;
-  }
-  .header_heading {
-    font-size: 22px;
-    line-height: 26px;
   }
 }
