@@ -96,6 +96,9 @@ main {
 }
 .card_item h1 {
   margin-bottom: 14px;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 54px;
 }
 .bg_card_primary {
   background: #f3f3f5;
@@ -242,6 +245,8 @@ main {
   }
   .card_item h1 {
     margin-bottom: 8px;
+    font-size: 32px;
+    font-weight: 900;
   }
 }
 @media screen and (max-width: 560px) {
