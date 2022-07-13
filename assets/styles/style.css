@@ -43,7 +43,11 @@ body {
 
 .bg-orange {
   padding: 8px 16px;
-  background: linear-gradient(to bottom left, #fda0aa, #fed4c1);
+  background: linear-gradient(
+    218.09deg,
+    rgba(248, 155, 166, 0.8) 21.82%,
+    rgba(255, 211, 191, 0.8) 76.1%
+  );
   border-radius: 50px;
   align-items: center;
 }
