@@ -69,8 +69,8 @@ main {
   background: linear-gradient(0deg, #e8e7ee, #e8e7ee), #000000;
   padding: 82px 230px 165px 230px;
 }
-.header_heading {
-  font-weight: 1000;
+.header h1 {
+  font-weight: 900;
   font-size: 80px;
   line-height: 108px;
   text-align: center;
@@ -175,7 +175,7 @@ main {
   .bg-primary {
     padding: 50px 180px 120px 180px;
   }
-  .header_heading {
+  .header h1 {
     font-size: 60px;
     line-height: 81px;
   }
@@ -188,7 +188,7 @@ main {
   .bg-primary {
     padding: 40px 120px 70px 120px;
   }
-  .header_heading {
+  .header h1 {
     font-size: 40px;
     line-height: 54px;
     text-align: center;
@@ -254,9 +254,9 @@ main {
   .container {
     padding: 23px;
   }
-  .header_heading {
+  .header h1 {
     font-size: 40px;
-    font-weight: 1000;
+    font-weight: 900;
     line-height: 50px;
     text-align: center;
   }
