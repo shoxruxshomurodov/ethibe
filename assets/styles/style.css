@@ -213,7 +213,9 @@ main {
     flex-direction: column;
     justify-content: center;
   }
-
+  .fixed-nav_item {
+    margin-bottom: 5px;
+  }
   .badge {
     height: 10px;
     width: 20px;
