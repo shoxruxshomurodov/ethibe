@@ -93,6 +93,12 @@ main {
 .card_item h1 {
   margin-bottom: 14px;
 }
+.bg_card_primary {
+  background: #f3f3f5;
+}
+.bg_card_secondary {
+  background: #f3f5f7;
+}
 
 .card_item_last {
   display: flex;
@@ -223,6 +229,11 @@ main {
   .header_description {
     padding: 0 50px;
   }
+  .bg_card_primary,
+  .bg_card_secondary {
+    background: #f3f3f5;
+  }
+
   .card_item {
     padding: 38px 18px;
   }
