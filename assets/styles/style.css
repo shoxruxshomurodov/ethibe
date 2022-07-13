@@ -251,4 +251,7 @@ main {
     max-width: 1440px;
     padding: 0px;
   }
+  .fixed-nav {
+    top: 100%;
+  }
 }
