@@ -69,8 +69,8 @@ main {
   background: linear-gradient(0deg, #e8e7ee, #e8e7ee), #000000;
   padding: 82px 230px 165px 230px;
 }
-.header_heading {
-  font-weight: 900;
+.header_heading h1 {
+  font-weight: 1000;
   font-size: 80px;
   line-height: 108px;
   text-align: center;
@@ -255,7 +255,7 @@ main {
   .container {
     padding: 23px;
   }
-  .header_heading {
+  .header_heading h1 {
     font-size: 40px;
     font-weight: 1000;
     line-height: 50px;
