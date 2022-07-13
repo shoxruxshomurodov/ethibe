@@ -171,6 +171,10 @@ main {
   display: flex;
   align-items: center;
 }
+.footer_heading {
+  padding-top: 60px;
+  margin-left: 30px;
+}
 @media screen and (max-width: 1460px) {
   .bg-primary {
     padding: 50px 180px 120px 180px;
@@ -226,12 +230,9 @@ main {
   }
 }
 @media screen and (max-width: 768px) {
-  .bg-primary {
-    padding: 10px 40px 30px 40px;
-  }
   .header_heading,
   .header_description {
-    padding: 0 10px;
+    padding: 0 5px;
   }
   .bg_card_primary,
   .bg_card_secondary {
@@ -267,5 +268,9 @@ main {
     font-weight: 500;
     font-size: 26px;
     line-height: 35px;
+  }
+  .footer_heading {
+    padding-top: 35px;
+    margin-left: 15px;
   }
 }
