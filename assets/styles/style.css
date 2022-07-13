@@ -202,6 +202,7 @@ main {
   .fixed-nav {
     padding: 14px 20px;
     flex-direction: column;
+    justify-content: center;
   }
 
   .badge {
