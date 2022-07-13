@@ -251,7 +251,7 @@ main {
   .container {
     padding: 23px;
   }
-  .header_heading {
+  .header_heading h1 {
     font-size: 40px;
     font-weight: 900;
     line-height: 50px;
@@ -259,5 +259,10 @@ main {
   }
   .fixed-nav {
     top: 90%;
+  }
+  .card_item {
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 35px;
   }
 }
