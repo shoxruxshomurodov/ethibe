@@ -246,6 +246,7 @@ main {
     padding: 68px 0px 84px 0px;
   }
   .container {
+    padding: 0 23px;
     margin: 0 auto;
     max-width: 1440px;
     padding: 0px;
