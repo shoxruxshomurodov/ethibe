@@ -69,7 +69,7 @@ main {
   background: linear-gradient(0deg, #e8e7ee, #e8e7ee), #000000;
   padding: 82px 230px 165px 230px;
 }
-.header_heading h1 {
+.header_heading {
   font-weight: 1000;
   font-size: 80px;
   line-height: 108px;
@@ -83,7 +83,6 @@ main {
 }
 .card_items {
   flex-wrap: wrap;
-  font-weight: 400;
   font-size: 30px;
   line-height: 41px;
 }
@@ -96,7 +95,7 @@ main {
 }
 .card_item h1 {
   margin-bottom: 14px;
-  font-weight: 900;
+  font-weight: 1000;
   font-size: 40px;
   line-height: 54px;
 }
@@ -255,7 +254,7 @@ main {
   .container {
     padding: 23px;
   }
-  .header_heading h1 {
+  .header_heading {
     font-size: 40px;
     font-weight: 1000;
     line-height: 50px;
