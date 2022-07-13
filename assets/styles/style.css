@@ -191,7 +191,6 @@ main {
   }
   .header_heading {
     font-size: 40px;
-    font-weight: 900;
     line-height: 54px;
     text-align: center;
   }
@@ -256,9 +255,9 @@ main {
   .container {
     padding: 23px;
   }
-  .header_heading h1 {
+  .header_heading {
     font-size: 40px;
-    font-weight: 900;
+    font-weight: 1000;
     line-height: 50px;
     text-align: center;
   }
