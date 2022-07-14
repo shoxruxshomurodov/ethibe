@@ -43,7 +43,7 @@ body {
 }
 
 .bg-orange {
-  background: url("/assets//img/button.svg");
+  background: url("/assets/img/button.svg");
   padding: 10px 42px;
   /* background: linear-gradient(
     218.09deg,
@@ -156,19 +156,19 @@ main {
   cursor: pointer;
 }
 .badge {
-  height: 20px;
-  width: 30px;
+  width: 28px;
+  height: 21px;
   border-radius: 9px;
   margin-right: 5px;
 }
 .bg-pink-light {
-  background: #df9198;
+  background: url("/assets/img/pink.svg") no-repeat center;
 }
 .bg-blue-dark {
-  background: #47b1f2;
+  background: url("/assets/img/dark-blue.svg") no-repeat center;
 }
 .bg-blue-light {
-  background: #94d1e1;
+  background: url("/assets/img/light-blue.svg") no-repeat center;
 }
 .arrow-right {
   margin-left: 10px;
@@ -219,10 +219,6 @@ main {
   }
   .fixed-nav_item {
     margin-bottom: 5px;
-  }
-  .badge {
-    height: 15px;
-    width: 20px;
   }
 }
 
