@@ -166,6 +166,10 @@ main {
   cursor: pointer;
   text-decoration: none;
 }
+.link {
+  font-weight: 700;
+  color: #14a800;
+}
 .badge {
   width: 28px;
   height: 21px;

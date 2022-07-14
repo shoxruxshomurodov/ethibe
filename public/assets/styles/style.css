@@ -16,7 +16,10 @@ body {
   position: relative;
   background: #f3f5f7;
 }
-
+.link_to {
+  font-weight: 700;
+  color: #14a800;
+}
 .flex {
   display: flex;
 }
