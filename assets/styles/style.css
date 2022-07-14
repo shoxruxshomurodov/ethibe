@@ -12,7 +12,7 @@ body {
 .container {
   margin: 0 auto;
   max-width: 1440px;
-  padding: 0 37px;
+  padding: 0 37px 80px 37px;
   position: relative;
   background: #f3f5f7;
 }
@@ -136,7 +136,7 @@ main {
 .fixed-nav {
   padding: 16px 40px;
   background: #000000;
-  bottom: 0;
+  bottom: 15px;
   max-width: inherit;
   width: 100%;
   left: 50%;
@@ -255,7 +255,7 @@ main {
     padding: 68px 0px 84px 0px;
   }
   .container {
-    padding: 23px;
+    padding: 0 23px 140px 23px;
   }
   .header h1 {
     font-size: 40px;
