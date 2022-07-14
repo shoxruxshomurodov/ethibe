@@ -136,7 +136,7 @@ main {
 .fixed-nav {
   padding: 16px 40px;
   background: #000000;
-  top: 70%;
+  bottom: 0;
   max-width: inherit;
   width: 100%;
   left: 50%;
@@ -267,9 +267,7 @@ main {
     line-height: 50px;
     text-align: center;
   }
-  .fixed-nav {
-    top: 90%;
-  }
+
   .card_item {
     font-weight: 500;
     font-size: 26px;
