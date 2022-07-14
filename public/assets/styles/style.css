@@ -16,10 +16,7 @@ body {
   position: relative;
   background: #f3f5f7;
 }
-.link_to {
-  font-weight: 700;
-  color: #14a800;
-}
+
 .flex {
   display: flex;
 }
@@ -169,6 +166,12 @@ main {
   cursor: pointer;
   text-decoration: none;
 }
+a.link_to {
+  color: #14a800;
+  font-weight: 700;
+  border-bottom: 2px solid #14a800;
+}
+
 .badge {
   width: 28px;
   height: 21px;
