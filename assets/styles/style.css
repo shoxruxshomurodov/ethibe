@@ -24,7 +24,7 @@ body {
 .navbar {
   justify-content: space-between;
   align-items: center;
-  padding: 20px 0;
+  padding: 16px 0;
 }
 .navbar-logo h1 {
   font-weight: 700;
