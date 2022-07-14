@@ -4,9 +4,9 @@
   box-sizing: border-box;
 }
 body {
-  background: #f3f5f7;
   color: #000000;
   font-family: "Satoshi", sans-serif;
+  background: #9d9d9d;
 }
 
 .container {
@@ -14,6 +14,7 @@ body {
   max-width: 1440px;
   padding: 0 37px;
   position: relative;
+  background: #f3f5f7;
 }
 
 .flex {
@@ -25,9 +26,9 @@ body {
   align-items: center;
   padding: 20px 0;
 }
-.navbar-logo {
-  font-size: 30px;
+.navbar-logo h1 {
   font-weight: 700;
+  font-size: 30px;
   line-height: 41px;
 }
 .navbar_link_list {
@@ -40,13 +41,15 @@ body {
   font-size: 14px;
   line-height: 19px;
 }
+
 .bg-orange {
+  background: url("/assets//img/button.svg");
   padding: 10px 42px;
-  background: linear-gradient(
+  /* background: linear-gradient(
     218.09deg,
     rgba(248, 155, 166, 0.8) 21.82%,
     rgba(255, 211, 191, 0.8) 76.1%
-  );
+  ); */
   border-radius: 50px;
   align-items: center;
 }
@@ -63,6 +66,8 @@ main {
 .section,
 .header {
   border-radius: 10px;
+  border: 1px solid #000000;
+  border-bottom: none;
 }
 .bg-primary {
   background: linear-gradient(0deg, #e8e7ee, #e8e7ee), #000000;
